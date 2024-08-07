@@ -1,4 +1,11 @@
-## Hi there 👋
+Hi there 👋
+  ## BOAS VINDAS AO MEU PERFIL 
+  - Meu nome é Naiara Freitas
+  - Estou estudando na [Alura](https://www.alura.com.br)
+
+  - ### Você pode entrar em contato comigo :mailbox
+
+- 00001115178076sp@al.educacao.sp.gov.br
 
 <!--
 **naifreitas/naifreitas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
